@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Studio",
+  "description": "An AI-powered photo editing application that uses Gemini Nano Banana to transform product photos based on user-defined styles, lighting, and perspectives.",
+  "requestFramePermissions": []
+}
